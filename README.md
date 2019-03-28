@@ -8,4 +8,4 @@ An example SSDT Project for creating logins and users, and latering domain when 
 4. Dot source the script and execute. 
 
 
-More info [here](https://bzzzt.io/post/2018-03/2018-08-13-deploy-login-different-domains/).
+More info [here](https://bzzzt.io/post/2018-08/2018-08-13-deploy-login-different-domains/).
