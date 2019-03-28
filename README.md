@@ -1,5 +1,5 @@
 # Sundae
-An example SSDT Projet for creating logins and users, and latering domain when deploying using PostSSDTBuildDeploy
+An example SSDT Project for creating logins and users, and latering domain when deploying using PostSSDTBuildDeploy
 
 ## Steps
 1. Build the Sundae sln in Visual Studio.
@@ -8,4 +8,4 @@ An example SSDT Projet for creating logins and users, and latering domain when d
 4. Dot source the script and execute. 
 
 
-More info [here](https://bzzzt.io/post/2018-08-13-deploy-login-different-domains/).
+More info [here](https://bzzzt.io/post/2018-03/2018-08-13-deploy-login-different-domains/).
